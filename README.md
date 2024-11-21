@@ -13,7 +13,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 1. **Clone o repositório**  
    Clone este repositório na sua máquina local usando:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Odair/node-test
 
 cd node-test
 
